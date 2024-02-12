@@ -1,0 +1,734 @@
+question,body,A,B,C,D,E,year,question_number,test,answer,language,answer_order
+QUESTION 46,"Image description: The image shows a diagram that
+illustrates the Earth's movement around the sun
+around the sun, showing the equinox on March 21 with
+equivalent solar illumination in the northern and
+southern hemispheres, the solstice on June 21, when solar
+in the northern hemisphere, the equinox on
+September 23 with equivalent solar illumination in the northern and southern
+northern and southern hemispheres, and the solstice on December 21, with
+with a predominance of illumination in the southern hemisphere.
+
+ 
+
+Considering the information presented, the
+Congress building in Brasilia on June 21st at
+12 noon, will cast its shadow in the direction of",east.,south.,northeast.,north.,west.,2021,46,CH,B,english,"['C', 'B', 'E', 'A', 'D']"
+QUESTION 47,"TEXT 1
+Garbage: urban cleaning through the ages
+
+Image description:
+
+The image entitled ""Garbage: urban cleanliness through the ages
+through the ages"" features a painting showing
+scene of slaves carrying barrels supported
+their heads and commanded by an authority
+wielding a sword.
+
+TEXT 2
+The life of slaves in Rio de Janeiro, 1808-1850
+
+The disgusting task of carrying garbage and waste from the house to the squares and beaches
+the squares and beaches was usually assigned to the
+the only slave in the family or the one with the lowest status or value.
+value. Every night, after ten o'clock, the slaves
+popularly known as ""tigers"" would take tubes or barrels
+or barrels of excrement and garbage on their heads through the
+streets of Rio.
+
+The action represented in the image and described in the text
+shows an everyday practice in Brazilian cities
+in the eighteenth and nineteenth centuries characterized by the",valuing manual labor.,sacralization of work activities.,re-signification of religious heritage.,overcoming economic exclusion.,reiteration of social hierarchies.,2021,47,CH,E,english,"['A', 'C', 'E', 'D', 'B']"
+QUESTION 48,"Torém/Toré: traditions and invention in the context of
+ethnic multiplicity of contemporary Ceará
+
+The torém depended on family organization, being
+played by people with ties of kinship
+and affinity who lived in the area. It was seen as a
+entertainment for the participants themselves
+themselves and their acquaintances. Cashew season was
+time was the pretext for its realization.
+the region to drink mocororó, a fermented cashew drink.
+fermented cashew drink.
+
+The ritual mentioned in the text is attributed to the cultural
+the cultural manifestation of indigenous groups from the Brazilian Northeast
+function of",overcoming artisanal activity.,manipulate individual memory.,stimulate social cohesion.,modernize traditional commerce.,celebrate official history.,2021,48,CH,C,english,"['C', 'D', 'B', 'E', 'A']"
+QUESTION 49,"Image description:
+
+The image, which shows a clipping from the newspaper Correio
+Paulistano newspaper, published on April 13, 1879, shows
+an advertisement entitled ""Escaped slave"" with the following
+text:
+
+""On October 8th of last year he escaped
+from the Bom Retiro farm, owned by Dr.
+Francisco Antonio de Araújo, the slave José, brown
+light brown, 22 years old, regular height, full-bodied
+body, missing a front tooth on the upper side, red hair
+side, reddish hair, purple ears,
+soft-spoken, with a slow gait. He calls himself a forro, and
+when he first ran away, he was hired as a
+on a farm in Capivary.
+
+Whoever seizes him and delivers him to his master in
+Amparo, or collect him from a prison anywhere.
+will be well rewarded, and all the rigors of the law are being
+of the law against anyone who seizes it"".
+ 
+
+In the advertisement published in the second half of the nineteenth
+nineteenth century, what was the slave resistance strategy
+presented?",Regularization of paid positions.,Creating working relationships.,Foundation of quilombola territories.,Softening the application of standards.,Setting up a subsistence economy.,2021,49,CH,B,english,"['D', 'A', 'B', 'C', 'E']"
+QUESTION 50,"Principles of philosophy, René Descartes
+
+Philosophy is like a tree, the roots of which are
+metaphysics; the trunk, physics, and the branches that come out of the
+trunk are all the other sciences, which are reduced to
+three main ones: medicine, mechanics and morality,
+moral being the highest and most perfect
+because it presupposes an integral knowledge of the other sciences,
+and is the ultimate degree of wisdom.
+
+Descartes' allegorical construction of the
+epistemological condition of philosophy, aims to",to receive the experimental method.,to sustain the essential unity of knowledge.,refute the fundamental element of beliefs.,drive speculative thought.,encourage the suspension of judgments.,2021,50,CH,B,english,"['D', 'A', 'B', 'C', 'E']"
+QUESTION 51,"My formula for what is great in the individual
+is amor fati: to desire nothing beyond what you are, neither before you
+nor behind you, nor in the centuries of centuries. No
+to be content with enduring the inescapable, and even less
+dissimulate it, but to love it.
+
+This formula indicated by Nietzsche consists of a
+criticism of the Christian tradition that",prevents scientific progress in the modern context.,associates pagan cults with the sacralization of nature.,combating social practices of an affective nature.,condemns the philosophical models of Classical Antiquity.,consecrates human fulfillment to the transcendental field.,2021,51,CH,E,english,"['B', 'C', 'A', 'D', 'E']"
+QUESTION 52,"You have to use violence and fight the appetites of the senses without
+appetites of the senses, without paying attention to what the flesh wants or doesn't want.
+wants or doesn't want, but working to bring it into subjection to the spirit, even if it
+even if it rebels. We must punish it and bend it to submission,
+to the point where it is ready for anything, knowing how to
+be content with little and delight in simplicity,
+without grumbling at any inconvenience.
+
+Which characteristic of medieval asceticism is highlighted in the text?
+in the text?",Condemnation of impure food.,Exaltation of liturgical ritualism.,Disqualification from work.,Affirmation of rational thought.,Devaluation of corporeal materiality.,2021,52,CH,E,english,"['D', 'A', 'C', 'B', 'E']"
+QUESTION 53,"In a society in transition, the march of
+change, to varying degrees, is imprinted on all
+aspects of the social order, especially in the political
+political game, which in such societies
+characteristic patterns of ambivalence, the social roots of which
+the coexistence of two patterns of social structure
+of social structure: the traditional pattern, which is in decline, and
+the new, emerging, expanding pattern. In such situations
+can simultaneously find support for one
+political orientation or another that is its exact opposite.
+opposite. The ambivalent pattern of the political process,
+in developing societies explains
+one of its most striking features, and that is the
+tendency to postpone major decisions. It follows
+political inertia or political upheaval can follow one another
+in surprisingly short periods of time.
+periods.
+
+According to this perspective, central to
+Brazilian social thought of the 1950s and 1960s, the country's
+country's development was marked by","radical reform agendas of the ruling elites
+leaders.","mismatches in the construction of
+modern institutional frameworks."," anomalies in the implementation of
+plans.","legitimacy in the work of
+movements.","slowness in the dynamics of perfecting
+party programs.",2021,53,CH,B,english,"['A', 'C', 'B', 'D', 'E']"
+QUESTION 54,"Manifesto of the Pioneers of New Education - 1932
+
+The New Education, broadening its purpose to
+beyond the confines of the classroom, takes on a more human
+its true social function, preparing itself to form ""the democratic
+-to form ""the democratic hierarchy"" through the ""hierarchy of abilities
+of abilities"", recruited from all social groups,
+to which the same educational opportunities are open.
+Its purpose is to organize and develop the means of
+action in order to ""direct the natural and integral development
+natural and integral development of the human being at each of the
+stages of their growth"", in accordance with a certain
+conception of the world.
+
+The authors of the aforementioned manifesto sought to oppose the
+-to the oligarchic character of Brazilian society. In this sense
+the passage proposes a necessary relationship between","teachers' pay and the elimination of
+illiteracy.",availability of funding and advanced research.,access to school and valuing merit.,expanding vacancies and training managers.,technical education and the job market.,2021,54,CH,C,english,"['E', 'D', 'B', 'C', 'A']"
+QUESTION 55,"Venon, Plato
+
+Socrates: ""He who does not know what a thing is, how can he
+know what kind of thing it is? Or do you think
+it possible for someone who doesn't know
+who Venon is, that someone can know if he's beautiful, if he's
+rich and noble""? Does that seem possible to you?
+So, Venon, what do you say virtue is?""
+
+The attitude presented in the philosopher's interlocution with
+Senon is an example of the use of the",tragic language.,epistolary writing.,judicial suspension.,physicalist explanation.,dialectical method.,2021,55,CH,E,english,"['C', 'A', 'E', 'D', 'B']"
+QUESTION 56,"Among various African peoples, in particular
+the ancient Kingdom of the Congo, there is graphic evidence
+that writing took various forms. One example is
+the bas-relief carved pot lids of the
+Woyo people (Cabinda region), with scenes and proverbs from daily life
+scenes and proverbs, drawings in the earth or sand, images engraved
+or inscribed on chief's sticks or sacred stones,
+but, above all, movements of the human body inscribed
+gestures. Among the Woyo there was a custom
+among the Woyo there was the custom of parents giving their children carved
+carved pot lids, conveying a kind of message,
+with coded signs that conveyed guidelines for
+a good marital relationship, to be sensible when choosing a spouse
+choice of spouse and to be alert to difficulties in marriage.
+marriage.
+For the Woyo people, the cultural artifacts mentioned in the
+text fulfill the function of a",destitution of the values of marriage.,devaluation of youthful behavior.,pedagogy of social customs.,ethnography of religious celebrations.,imposing forms of communication.,2021,56,CH,C,english,"['D', 'C', 'A', 'E', 'B']"
+QUESTION 57,"Incarceration map: young people in Brazil
+
+There was a 74 percent increase in the
+between 2005 and 2012. The analyses
+made it possible to identify the profile of the population
+in the country's prisons: male, young (under
+29 years), black, with incomplete primary education,
+accused of property crimes and, in the case of adult prisoners
+and, in the case of adult prisoners, convicted and serving closed sentences,
+sentences of between four and eight years.
+
+In this context, public policies to minimize the
+problem must focus on",reducing the age of criminal responsibility.,expansion of the period of imprisonment.,curbing political corruption.,making the Civil Code more flexible.,promoting social inclusion.,2021,57,CH,E,english,"['C', 'E', 'D', 'A', 'B']"
+QUESTION 58,"No wars, no uprisings. Fires were the
+most frequent torment of urban life in Regnum
+ltalcum. Between 880 and 1080, the cities were
+the appetite of flames. At one point
+At one point, the documentation seems to be overcome by the insistence of the
+vocabulary, leading even the most critical reader to think that the
+medieval people were right to treat these events
+as punishments that preceded the final judgment. Like
+a fifth apocalyptic horseman, the fire acted like
+plague or famine: wandering around the world, it returned from time to time and
+returned from time to time and purged the righteous and sinners in a
+ultimate torment, as the texts of the tenth century insisted.
+tenth century. The impact it had on social relations was
+beyond the material destruction.
+The measures proclaimed by the authorities did more
+than repair the damage and rebuild the landscape: they
+converted the devastation into an opportunity to alter and expand
+not only the urban topography, but also the social practices
+social practices.
+
+According to the text, the catastrophe described had an impact on medieval
+medieval societies by providing","correction of preventive methods and
+rules","revealing public neglect and environmental degradation.
+degradation.","transformation of popular imagination and
+beliefs.","reconfiguration of occupied spaces and
+community dynamics.","reshaping political systems and
+local administrations.",2021,58,CH,D,english,"['A', 'B', 'C', 'E', 'D']"
+QUESTION 59,"Indigenous protagonism has opted for a
+strategy of ""de-invisibilization"", taking advantage of the
+dynamics of new technologies. In October 2012,
+after receiving an injunction denying them the right to
+remain on their land, the Guarani of Pyelito Kue
+released a letter in which they were willing to die,
+but not to leave their land. This was widely
+widespread, generating a huge mobilization on the internet,
+which led thousands of people to choose their side,
+spreading the hashtag ""fsomostodosGuarani-Kaiowá""
+or adding the surname Guarani-Kaiowá to their
+on their profiles on the main social networks.
+
+The communicative strategy adopted by the indigenous people in the
+context, had the effect of",garner the support of external ethnic segments.,shake the identity of traditional peoples.,distancing groups from local cultures.,inserting communities into the global market.,weaken forms of political activism.,2021,59,CH,A,english,"['E', 'B', 'D', 'C', 'A']"
+QUESTION 60,"The Vargas government, especially during the Estado
+Estado Novo (1937-1945), intended to build a state capable of
+to create a new society. A key dimension
+of this project was the territory. Not by chance
+was no coincidence that institutions were created to
+reliable data for government action, such as
+the National Geography Council, the National Cartography
+Cartography, the National Statistics Council and the
+Instituto Brasileiro de Geografia e Estatística (IBGE), the latter in 1938.
+from 1938.
+The creation of these institutions by the Vargas government
+represented a political strategy of",stem the flow of migrants from the countryside to the city.,"gain scientific knowledge of regional
+diversities.","gather information for the preservation of the
+of the hinterlands.",propose the creation of new federal units.,"control the exponential growth of the
+population.",2021,60,CH,B,english,"['D', 'C', 'A', 'E', 'B']"
+QUESTION 61,"Diseases and cures: Brazil in the first centuries
+
+On the one hand, anchored by European medical practice,
+on the other, by indigenous therapeutics, with their extensive use of native
+of native flora, the Jesuits were the real initiators of the
+hybrid medicine that became a hallmark of colonial Brazil.
+of colonial Brazil. Some religious came from Portugal already
+versed in the healing arts, but the majority learned in the
+daily practice the functions that should be assigned to a
+physicist, surgeon, barber or apothecary.
+
+According to the text, what characterizes the construction of the
+practice described is",combining empirical knowledge.,overcoming popular tradition.,adoption of mystical rituals.,imposition of native pharmacology.,rejection of Christian dogma.,2021,61,CH,A,english,"['E', 'C', 'A', 'D', 'B']"
+QUESTION 62,"The spirituality of the Western Middle Ages,
+eighth to thirteenth centuries
+
+Since the twelfth century, Western Christianity had been
+the challenge posed by profane culture - that of the
+chivalric romances, but also the folk culture
+of the peasants and also that of the townspeople, of a more juridical character
+the ecclesiastical culture, whose vehicle was Latin.
+Latin. Francis of Assisi changed the situation by proposing
+his listeners a message that was accessible to all, and at the same time,
+ennobling the vulgar language through its use in religion.
+its use in religion.
+
+
+The behavior of this religious man shows a
+concern with the characteristics assumed by the
+Church and social inequalities shared in his time by
+shared in his time by",trade guilds.,members of the Crusades.,heretical movements.,feudal lords.,medieval universities.,2021,62,CH,C,english,"['D', 'C', 'B', 'A', 'E']"
+QUESTION 63,"Why did Brazil remain one while
+America split into several countries?
+
+For Brazilian historian José Murilo de Carvalho,
+in Brazil, part of society was much more cohesive
+ideologically than the Spanish. Carvalho argues
+that this was due to the Portuguese bureaucratic tradition.
+""Portugal never allowed the creation of universities
+in its colony"". On the other hand, in Spanish America,
+between 1772 and 1872, 150,000 students graduated from local universities.
+local universities. For Mexican historian Alfredo
+Ávila Rueda, the universities in Spanish America
+were mostly reactionary. In this sense, the
+Mexican historian says he believes that the free circulation
+of printed matter (newspapers, books and pamphlets) in Spanish
+America, which was not allowed in Portuguese America
+(the ban was only reversed in 1808), played a much more important
+more important in the construction of regionalisms than
+universities.
+
+The points of view of the historians mentioned in the text
+are divergent in relation to","role played by the media
+in the development of literate nations.","place occupied by student associations in
+strengthening student associations.","role played by educational institutions in
+multiple identities.","abandonment suffered by teaching communities in the
+political collectivities.","control exercised by press groups in the
+centralization of the administrative spheres.",2021,63,CH,C,english,"['E', 'D', 'A', 'C', 'B']"
+QUESTION 64,"TEXT 1
+
+Macaulay emphasized the glorious event
+represented by Parliament's struggle against Charles
+for the political and religious freedom of the English people;
+it signified the first confrontation between liberty and royal
+tyranny, the first fight in favor of the Enlightenment and
+and Liberalism.
+
+TEXT 2
+
+The English Revolution, like all revolutions,
+was caused by the breakdown of the old society, and not
+the wishes of the old bourgeoisie. In the 1640s,
+peasants revolted against the enclosures, weavers
+against the misery resulting from the depression and believers against the
+the Antichrist in order to install Christ's kingdom on earth.
+
+The conception of the English Revolution presented in Text
+2 differs from that of Text 1 by highlighting the existence of",plurality of social demands.,superiority of economic aspects.,uniqueness of historical approaches.,superficiality of political interests.,homogeneity of religious struggles.,2021,64,CH,A,english,"['A', 'E', 'C', 'D', 'B']"
+QUESTION 65,"The big companies would certainly be,
+representation of an exercise of power, given the degree of
+autonomy of action. What we want to
+to emphasize is the idea of enclaves: industrial plants that
+establish scarce relations with their surroundings, but
+influence the extra-local economy.
+
+What kind of action companies take reflects the form of
+territorialization of industrial production presented in the
+text?",Incorporation of traditional knowledge.,Importing skilled labor.,Creation of workers' villages.,Promotion of community events.,Recovering degraded areas.,2021,65,CH,B,english,"['D', 'E', 'A', 'B', 'C']"
+QUESTION 66,"Since 2009, Rio's port area has been undergoing
+major transformations carried out as part of the
+urban operation known as Porto
+Porto Maravilha. An important part of the attempt to turn
+Rio de Janeiro into an international services hub, urban
+urban ""revitalization"" was supposed to leave behind a geographical
+geographical landscape that was still reminiscent of the city
+century to make room instead for the installation of modern commercial towers
+the installation of modern commercial towers
+spaces for consumption and leisure and around a hundred thousand new residents.
+residents, a new socio-spatial configuration capable of
+Rio de Janeiro's port area to the level of the waterfronts of
+of the waterfronts of Baltimore, Barcelona and Buenos Aires.
+
+The urban interventions described derive from a socio-spatial
+socio-spatial process that seeks to","intensified participation in global competitiveness
+competitiveness.",prioritizing participatory management.,democratization of popular housing.,valuing traditional functions.,curbing speculation in the real estate market.,2021,66,CH,A,english,"['A', 'E', 'C', 'D', 'B']"
+QUESTION 67,"Brazil's industrialization in the face of the new
+division of labor
+
+Brazil's industry has been very little involved in
+new technologies anchored in microelectronics
+microelectronics, capable of increasing national
+sustained increase in national productivity. The engines
+of national growth for decades have been the groups
+related to agro-industrial commodities and industry
+representative of the old Fordist pattern of production,
+the latter also limited by the low potential
+potential to unleash technological innovations capable of
+to provide a sustained increase in productivity.
+
+One effect of this scenario for Brazilian society has been
+been",cheapening the basic food basket.,increasing consumer power.,a return to economic nationalization.,subordination to global flows.,encouraging modernization policy.,2021,67,CH,D,english,"['A', 'C', 'B', 'D', 'E']"
+QUESTION 68,"Conflicts over land use in the mineral Amazon
+
+Mining activities have created conflicts
+with extractivists, quilombolas, small farmers,
+riverine communities, artisanal fishermen and indigenous peoples. In general
+These people have generally found it very difficult to
+reproduce their territorial dynamics after the
+of mining activity, not always with recognition
+of the impact on their territory by the state and the company,
+without any kind of economic compensation.
+In other cases, not even economic compensation has
+been able to prevent the fraying of social relations
+of these groups, who suffer from the abrupt reconstruction of
+their identities and territorial dynamics.
+
+The text presents a relationship between economic activity
+and social organization marked by",breaking local ties.,enriching local communities.,lack of cultural incentives.,lack of financial investment.,establishing agroecological practices.,2021,68,CH,A,english,"['B', 'E', 'A', 'C', 'D']"
+QUESTION 69,"A Thousand Plateaus, Gilles Deleuze and Felix Guattari
+
+By majority, we don't mean a
+quantity, but the determination of a state or
+a pattern in relation to which both larger and smaller quantities
+quantities are said to be a minority.
+Majority means a state of domination. It is in this sense
+that women, children and even animals are
+minority.
+
+In the text, the characterization of a minority stems from the
+existence of",threats of social extinction.,valuations of symmetrical connections.,state incentive policies.,hierarchies of biological origin.,relationships of an arbitrary nature.,2021,69,CH,E,english,"['A', 'D', 'B', 'E', 'C']"
+QUESTION 70,"The situation of the working class in England,
+Friedrich Engels
+
+At the same time, thanks to the
+I had to observe the middle class, your adversary,
+I quickly concluded that you were right, absolutely right,
+not to expect any help from them. Their interests
+are diametrically opposed to yours, even if it
+incessantly tries to claim the opposite and wants to persuade you
+to persuade you that she feels the greatest sympathy for your fate.
+But her actions belie her words.
+
+In the text, the author presents ethical guidelines that
+correspond to",the foundation of the idea of surplus value.,domains of commodity fetishism.,fundamentals of the scientific method.,concept of class struggle.,paradigms of the inquiry process.,2021,70,CH,D,english,"['B', 'E', 'C', 'A', 'D']"
+QUESTION 71,"Indigenous technologies: splendor and capture
+
+It was these Xavante scientists who clarified
+the mysteries of seed germination.
+They had the knowledge to break dormancy.
+Fire was fundamental for many; for others, the way to
+the way to awakening was through the digestive system
+of wild animals. ""This plant is born after
+we hunt with fire, they said, this one
+another when the tapir shits the seed, that one needs to be
+to be eaten by the wolf"". Combining the knowledge of
+scientists from the village and the city, this area of the Cerrado
+has been completely recovered.
+
+In the text, the socio-spatial relationship of the indigenous people highlights
+the importance of",cattle breeding for genetic improvement.,traditional knowledge for environmental conservation.,growing vegetables for urban consumption.,commercial reforestation for organic production.,agricultural practice for national logistics.,2021,71,CH,B,english,"['D', 'C', 'B', 'E', 'A']"
+QUESTION 72,"From the earliest days of the formation of the earth's crust
+to the present day, the rocks formed have been
+continuously destroyed. The products resulting from the
+destruction are transported by water, wind and ice
+and ice all over the Earth's surface, driven by heat and gravity.
+gravity. Once the transport energy has ceased, they are
+deposited in the lower regions of the crust and can
+form rocky packages.
+
+The transformations on the Earth's surface, as
+described in the text, make up the following
+geomorphological process:",Biological weathering.,Seismic instability.,Surface compaction.,Sedimentary cycle.,Basaltic spill.,2021,72,CH,D,english,"['C', 'B', 'E', 'A', 'D']"
+QUESTION 73,"Social participation in urban planning and management
+management has gained momentum since the
+Statute (Law number 10.257/2001), which established
+conditions for drawing up participatory
+master plans, which are instruments that induce
+urban expansion and land-use planning
+which, in principle, should seek to represent the
+interests of the various segments of society.
+However, there is a notorious limit to the representation of the
+interests of the less favored social strata
+in this process. This course must be corrected and
+continue to look for mechanisms to include the
+interests of society as a whole.
+
+Which measure promotes the social participation described in the
+text?",Increase in the value of gated communities.,Reducing municipal taxes.,Densification of commercial areas.,Privatization of public spaces.,Strengthening neighborhood associations.,2021,73,CH,E,english,"['D', 'A', 'C', 'B', 'E']"
+QUESTION 74,"When Getúlio Vargas committed suicide in August
+1954, the country seemed on the brink of chaos. Caught up in a
+crisis, the old leader preferred a bullet in the chest
+to the humiliation of accepting another deposition,
+like the one he had suffered in October 1945. However, contrary
+contrary to what his enemies imagined, the sound of the
+was not followed by the silence that surrounds defeat.
+The event analyzed in the text had the following repercussions
+immediate repercussions on national politics",popular reaction.,democratic opening.,military intervention.,anti-communist campaign.,opposition radicalization.,2021,74,CH,A,english,"['A', 'C', 'B', 'D', 'E']"
+QUESTION 75,"History of gypsies in Brazil
+
+I, Dom João, by the grace of God, make known to
+Your Grace that it has pleased me to banish to this city
+several gypsies - men, women and children - because of
+their scandalous behavior in this kingdom. They were
+ordered to sail on various ships bound for this
+port, and since I have recently forbidden the use of
+their customary language, I order Your Grace to comply with
+that law under threat of penalties, not allowing them to
+to teach that language to their children, so that from now on their
+henceforth its use disappears.
+
+The order issued by the Portuguese Crown to its American colony in 1718
+colony, in 1718, presented a treatment of cultural
+cultural identity based on",avoid foreign involvement in the local economy.,suppress divergent forms of social interaction.,"control the artistic manifestations of
+communities.",repress individuals engaged in nativist revolts.,converting unfaithful groups to the official religion.,2021,75,CH,B,english,"['C', 'B', 'E', 'D', 'A']"
+QUESTION 76,"Refugees in Brazil: reflections on the local integration process
+integration process
+
+The category of refugee carries with it the notions of
+of transience, temporariness and temporality.
+Refugees are located between the country of origin and the country of destination.
+country of destination. As they move between the two universes,
+occupy a marginal position, both in terms of identity
+- based on their lack of full belonging as members of the receiving
+members of the receiving community and in the bonds
+codes shared with the community of origin - and in legal terms.
+of origin - and in legal terms, as they no longer
+no longer exercise, at least temporarily, the status of citizens in the
+of citizens in the country of origin and carry the status of
+refugees in the receiving country.
+
+The transience of refugees in Brazil,
+as discussed in the text, is caused by the association",financial instability and economic crises.,ethnic miscegenation and border boundaries.,social ascension and state bureaucracy.,professional disqualification and police action.,cultural uprooting and legal insecurity.,2021,76,CH,E,english,"['D', 'B', 'A', 'C', 'E']"
+QUESTION 77,"Women naturalists rarely featured in the race
+to get to know exotic lands. In the nineteenth century,
+women like Lady Charlotte Canning eventually
+collected botanical specimens, but almost always in the
+role of colonial wives, traveling to places where their husbands took them
+their husbands took them, not in pursuit of their own scientific
+their own scientific projects.
+
+In the context of the nineteenth century, women's relationship
+with the scientific field, described in the text, is representative
+of",incorporation of social stratifications.,overcoming patriarchal thinking.,affirmation of gender equality.,transformation of leisure spaces.,replacing domestic activities.,2021,77,CH,A,english,"['D', 'C', 'A', 'B', 'E']"
+QUESTION 78,"The ideology of industrial society
+Herbert Marcuse
+
+In the most highly developed sectors of
+contemporary society, the transplantation of social
+needs is so effective that the difference between them seems purely theoretical.
+between them seems purely theoretical. Creatures
+recognize themselves in their goods; they find their soul
+in their cars, their houses, their kitchen utensils.
+utensils.
+
+The text indicates that, in capitalism, the satisfaction of personal
+desires is influenced by",rationalized repressions of narcissism.,subjective mechanisms of identification.,controlled consumer incentives.,state dissemination policies.,collective organizational requirements.,2021,78,CH,B,english,"['E', 'D', 'B', 'A', 'C']"
+QUESTION 79,"People's lives are changing just as quickly
+as the city reproduces itself. The place of celebration
+almost disappear; the number of children playing in the streets
+children's games in the streets diminishes - children are hardly
+children are hardly seen; pieces of the city are sold on the market as merchandise
+trees are destroyed, squares are turned into concrete.
+transformed into concrete. On the other hand, the inhabitants
+seem to lose their own references in the city.
+The image of a big city today is so mutant
+that it resembles that of a large crane.
+massive presence of cranes, crushers and concrete mixers
+give us the limit of the process of daily transformation to which the city is subjected.
+to which the city is subjected.
+
+In the context of large Brazilian cities, the situation
+presented in the text is occurring as a consequence
+of",expansion of environmental control standards.,maintaining social interaction.,relaxation of the rules of political participation.,preserving the essence of public space.,altering the organization of the geographical landscape.,2021,79,CH,E,english,"['C', 'A', 'D', 'B', 'E']"
+QUESTION 80,"In the Brazilian semi-arid region, the sertanejo has developed a detailed
+detailed acuity for observing phenomena,
+phenomena witnessed in nature over time, especially for
+weather and climate forecasting, using the position of the stars, constellations
+the position of the stars, constellations
+and clouds. According to the sertanejos, the season will
+be rainy when the first full moon of January
+""comes out red, behind a bar of clouds"", but
+""if it appears silver, it's a sign of drought"".
+
+The text exposes the production of knowledge that is
+is constituted by",perceptual experience.,standardization of information.,standardization of cultures.,scientific technique.,denial of traditions.,2021,80,CH,A,english,"['B', 'E', 'D', 'A', 'C']"
+QUESTION 81,"Brave new cattle, Zé Ramalho
+
+You who are part of this mass
+Who pass the projects of the future
+It's so hard to have to walk
+And giving much more than receiving
+It's, Ô, Ô, cattle life
+Marked people
+Yeah, happy people!
+Which collective behavior is criticized in the excerpt from the
+lyrics of the song released in 1979?",Autocontrole moral.,Political activism.,Religious altruism.,Social passivity.,Electoral dissatisfaction.,2021,81,CH,D,english,"['D', 'A', 'C', 'B', 'E']"
+QUESTION 82,"TEXT 1
+
+In 2016, 44.7 million tons of electronic waste were generated, an increase of 8 percent.
+of electronic waste was generated, an increase of 8 percent
+compared to 2014. Experts predicted a
+further growth of 17 percent, to 52.2 million
+tons by 2021.
+TEXT 2
+
+There are also those who deliberately export
+to Ghana. It's more expensive to recycle
+waste in the industrialized world, where there are even
+resources and technology. A much more
+business is to sell the e-waste to local dealers,
+who import it on the grounds that it is used material.
+The dealers then sell the junk to young people in the
+or elsewhere, who dismantle it and extract the copper wires.
+copper wire. These are melted down in open-air fireplaces,
+polluting the air and often directly intoxicating the young people themselves.
+themselves.
+
+In the context of environmental discussions, the practices
+practices described in the texts reflect a pattern of relationships
+derived from:",Sustainable economic design.,State customs protectionism.,Toyotism business management.,Full exercise of citizenship.,International division of labor.,2021,82,CH,E,english,"['D', 'E', 'C', 'A', 'B']"
+QUESTION 83,"United Nations World Report on
+Water Resources Development
+
+Fair prices and water use permits must
+adequately ensure that water withdrawals, as well as effluent
+that water withdrawals, as well as effluent returns, maintain
+efficient and environmentally sustainable operations
+adaptable to the peculiarities and needs
+of industry and large-scale irrigation, as well as
+small-scale agriculture and subsistence
+activities.
+
+Considering the debate on water security, the
+proposal presented in the text is based on",generation of recyclable products.,gradual soil revitalization.,equitable distribution of supply.,rationing of river capacity.,monitoring urban supply.,2021,83,CH,C,english,"['E', 'D', 'A', 'C', 'B']"
+QUESTION 84,"The abolition of the Brazilian slave trade
+
+During the years 1854-55, the Brazilian government -
+through its diplomatic representation in London
+- and the English free-traders - in the columns of the
+Daily News and in the House of Commons - increased
+pressure for the repeal of the Aberdeen Act. The British
+government, however, still feared that without a satisfactory Anglo-Brazilian
+without a satisfactory Anglo-Brazilian treaty to replace it.
+there would be nothing to stop the Brazilians from one day returning to their
+their old ways.
+
+The diplomatic tensions expressed in the text indicate Britain's
+British interest in",share maritime business.,establish conciliatory jurisdiction.,maintain the commercial ban.,promote the family business.,to promote hygienic policies.,2021,84,CH,C,english,"['B', 'A', 'D', 'E', 'C']"
+QUESTION 85,"Famous for being the town's widow charmer
+town of Cabaceiras, in Paraíba, Zé de Sila is a storyteller who
+storyteller similar to the character Chicó, from Auto da
+Compadecida. He vehemently argues that his grandmother's
+that his grandmother's prayer was more supportive of the rain. ""When I was little and
+and it rained here, I would help my grandmother by putting the dishes
+in the yard to reduce the wind. She would
+and prayed for the rain to last longer,"" says Zé de Sila.
+
+By highlighting popular expressions and experiences from
+everyday life, the text mobilizes the following aspects of regional
+regional diversity:","Literary arguments linked to environmental catastrophes
+disasters.",Affective alliances connected to the marriage ritual.,"Film narratives related to bad weather
+weather.",Theatrical manifestations linked to political imagery.,Mystical practices associated with cultural heritage.,2021,85,CH,E,english,"['E', 'A', 'D', 'C', 'B']"
+QUESTION 86,"New technologies in work processes:
+effects of productive restructuring
+
+
+The use of new technologies involves assimilating
+a corporate culture in which there is integration
+between proposals for technological modernization and
+rationalization. The use of new technologies
+is not always just a technical process
+presupposes a new orientation in the control of capital,
+in the production process and in the qualification of the workforce.
+Of the various effects that have arisen from this orientation, outsourcing
+outsourcing, precariousness and flexibilization appear
+the flexible paradigm, replacing the
+paradigm, replacing the Taylorist-Fordist model.
+
+The use of new technologies related to corporate
+control is criticized in the text because of the",training for self-employed professionals.,application of scientific knowledge.,operationalization of the work task.,hierarchization of executive positions.,weakening of labor relations.,2021,86,CH,E,english,"['B', 'E', 'A', 'D', 'C']"
+QUESTION 87,"The simple desire to check
+after work is bad for your
+health - and that of your family
+
+Your work shift is over, you're home and it's
+it's time for family dinner. But instead of relaxing, you
+start thinking about the possibility that you've received some
+important message in your work email or in the company
+group. Immediately, you become
+distant. Moments later, with a few taps on the screen
+screen, you're back at work.
+Dinner and family have taken a back seat.
+
+The text indicates practices in everyday work relationships
+that cause the individual to",release from domestic duties.,diversification of recreational leisure.,protection of privacy.,elevation of bureaucratic steps.,expansion of extra activities.,2021,87,CH,E,english,"['E', 'D', 'A', 'C', 'B']"
+QUESTION 88,"Capital in the 21st Century, Thomas Piketty
+
+When the rate of return on capital
+the growth rate of the economy,
+by logic, inherited wealth increases faster than income and production.
+than income and production. It is then enough for the heirs to
+save a limited part of the income from their capital for it to
+grow faster than the economy as a whole.
+economy as a whole. Under these conditions, it is almost inevitable that
+inherited wealth exceeds the wealth built up during
+a lifetime of work, and that the concentration of capital
+reach very high levels.
+
+Considering the principles that legitimize
+liberal democracies, the economic logic described in the
+text weakens",market efficiency.,financial gain.,birthright.,effectiveness of legislation.,ideology of merit.,2021,88,CH,E,english,"['E', 'D', 'B', 'C', 'A']"
+QUESTION 89,"Uvas do Brasil"" Genetic Improvement Program
+
+Currently, the ""Uvas do Brasil"" Breeding Program
+do Brasil"" breeding program currently uses classic breeding methods,
+such as mass selection, clonal selection and hybridization.
+Actions to adjust the management of advanced selections
+have been developed in parallel with the
+Program in order to make these materials viable.
+materials. Throughout its 40 years, a large technical team has
+team has worked to carry out research projects to
+meet the needs and demands of different
+players in the national wine industry, including producers of
+producers of table grapes for export in the northeastern semi-arid region,
+winegrowers interested in producing juice in tropical
+tropical regions or small family producers in the
+Serra Gaúcha region, interested in improving the quality of the
+wine they produce.
+
+To improve agricultural production in the
+mentioned, the techniques referred to in the text sought to
+adapt cultivation to",endangered native species.,unique environmental elements.,domestic consumer markets.,traditional land structures.,autonomous economic chains.,2021,89,CH,B,english,"['A', 'D', 'E', 'C', 'B']"
+QUESTION 90,"TEXT 1
+Letter from Venice, May 31, 1964
+
+Bearers of a spiritual message from the past, the
+monumental works of each people endure in the present
+as the living testimony of their centuries-old traditions.
+Humanity, increasingly aware of the unity
+of human values, considers them a common good and,
+future generations, recognizes that it is
+responsible for preserving them, and imposes on itself the
+of their authenticity.
+
+TEXT 2
+Historical heritage handbook
+
+Traditional protection systems are
+less and less efficient in the face of the accelerated
+urbanization and transformation of our society.
+Protection legislation is flawed because it considers the
+monument, to a certain extent, disconnected from socio-economic
+socio-economic reality. By decreeing the immutability
+immutability of the monument, leads to a reduction in its
+and abandonment, which is a cause, albeit a slow one, of inevitable destruction.
+inevitable destruction.
+
+Written in an approximate historical timeframe, the
+texts distance themselves by presenting different points of view on the
+points of view on the",defending the privatization of archaeological sites.,replacement of materials of artistic value., expanding the trade in sacred images.,cultural property conservation policies.,measures to safeguard museum pieces.,2021,90,CH,D,english,"['D', 'B', 'A', 'C', 'E']"
